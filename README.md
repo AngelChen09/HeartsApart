@@ -6,7 +6,8 @@
 - STM32 microcontroller
 - ESP 8266 WiFi module
 - 4 resistors (1000 ohms)
-- 0.91" OLED display 
+- 0.91" OLED display
+- DFR heart rate sensor
 - ISD1820 voice recorder
 - PSR-28N08A-JQ speaker without driver
 - a few dozen male-male jumpers, and a few male-female jumpers
