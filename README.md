@@ -1,5 +1,5 @@
 # HeartsApart
-## Where romance <3 meets Arduino
+## Where romance <3 meets two computres around your shoulders
 
 ### What you will need:
 #### Hardware
